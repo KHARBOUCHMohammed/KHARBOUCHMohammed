@@ -2,7 +2,6 @@
 
 <p align="left">Allow me to introduce you to an exceptional individual. I am a passionate and driven individual with a strong affinity for computer science and software engineering. As a student in this field, I have embarked on a journey of constant learning and growth, seeking to expand my knowledge and skills in the world of technology. With a curious and analytical mindset, I approach complex problems with a determination to find innovative solutions. My dedication to the field of software engineering is evident in my pursuit of excellence and my eagerness to explore the latest advancements in the industry. As a software engineering student, I'm honing my programming abilities, mastering different coding languages, and familiarizing myself with cutting-edge tools and frameworks. I embrace the challenges that come with developing robust and efficient software systems, and I thrive in collaborative environments where you can share ideas and learn.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kharbouchmohammed&label=Profile%20views&color=0e75b6&style=flat" alt="kharbouchmohammed" /> </p>
 
 
 
